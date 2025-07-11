@@ -12,10 +12,11 @@ O presente algoritmo visa desenvolver uma solução de aprendizado por reforço 
 * Victor Andrews Viana Rodrigues
 
 
-  **Tecnologias:**
-  * Swig
-  * Gymnasium
-  * Numpy
-  * Pytorch
-  * Glob
-  * Imageio
+**Tecnologias:**
+
+* Swig
+* Gymnasium
+* Numpy
+* Pytorch
+* Glob
+* Imageio
